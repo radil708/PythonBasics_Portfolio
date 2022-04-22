@@ -1,1 +1,19 @@
-Portfolio README
+Hello, welcome to my PythonBasics Repo!
+
+This repo contains examples of python projects the show strong understanding of foundational python programming.
+
+The goal of this repo is to be a portfolio for potential employers to look through.
+ 
+Each folder contains a README that contains information regarding code features and the requirements and goals
+	for the assignment.
+
+For a quick reference, I will list out the features implemented/used for each assignment below:
+--------------------------------------------------------------------------------------------------------------
+  P1:
+      - use of list and dictionary data structures
+      - list filtering, lambda functions
+      - opening/reading files
+      - parsing files
+      - saving outputs to a file
+      - PyUnit testing
+-------------------------------------------------------------------------------------------------------------
