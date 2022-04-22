@@ -1,0 +1,25 @@
+Features:
+	- use of list and dictionary data structures
+	- list filtering, lambda functions
+	- opening/reading files
+	- parsing files
+	- saving outputs to a file
+	- PyUnit testing
+--------------------------------------------------------------------------------------
+High Level Requirements:
+	- The goal is to translate one line of english to morse or NATO phonetic alphabet
+	- The program must open fonts.txt which contains METADATA and a one to one
+		translation of an english character to more and NATO phonetic
+	- The program must be able to read directions from the directives.txt file
+		and write the translations into an outfile
+		> The directives contain directions for which file to translate and to which language
+			to translate.
+	- Do NOT hard code the translations as the languages may be swapped around or
+		new languages may be added to the fonts.txt file
+
+--------------------------------------------------------------------------------------
+My Approach:
+	- The fonts.txt file can be used to create associative arrays since there is a
+		one to one 'translation' per character
+	- I will create associative arrays and use them to build the translations and then
+		save the translations into the appropriately named file

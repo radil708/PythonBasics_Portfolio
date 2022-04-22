@@ -1,0 +1,4 @@
+english morse testfont1.txt out1.txt
+english phonetic testfont1.txt out2.txt
+english morse testfont2.txt morseStar.txt
+english phonetic testfont2.txt phoneticStar.txt
