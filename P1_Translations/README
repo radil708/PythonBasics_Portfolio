@@ -1,10 +1,12 @@
 Features:
-	- use of list and dictionary data structures
-	- list filtering, lambda functions
-	- opening/reading files
-	- parsing files
-	- saving outputs to a file
-	- PyUnit testing
+      - For loops
+      - Conditionals
+      - use of list and dictionary data structures
+      - list filtering, lambda functions
+      - opening/reading files
+      - parsing files
+      - saving outputs to a file
+      - PyUnit testing
 --------------------------------------------------------------------------------------
 High Level Requirements:
 	- The goal is to translate one line of english to morse or NATO phonetic alphabet
