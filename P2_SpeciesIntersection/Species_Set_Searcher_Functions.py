@@ -34,7 +34,7 @@ def get_list_all_col_unique(dataframe: pd.DataFrame) -> list:
     list_all_col_sets = []
 
     for col in dataframe:
-        list_all_col_sets.append(list(set(dataframe[col].unique())))
+        list_all_col_sets.append(list((dataframe[col].unique())))
 
     return list_all_col_sets
 
