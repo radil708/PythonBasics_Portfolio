@@ -1,0 +1,30 @@
+Features:
+	- lists
+	- sets
+	- Dataframes (pandas)
+	- For Loops
+	- File input
+	- File output
+
+*** External library pandas required!
+--------------------------------------------------------------------------
+Context:
+	- A researcher friend of mine reached out to me asking if I could
+		help him solve a problem.
+	- He was testing samples for a the presence of a particular fungus
+		and all his samples tested positive, which was very unusual
+	- He had an idea that the reagents he was using possibly contained
+		components from the fungus he was actually testing for in their
+		standard formulation
+	- He built a csv file, where each column represented a reagent
+		he was using.
+	- Each value in the column represented a species id for an
+		organism whose parts were used for reagent.
+	- He wanted help finding any elements that appeared across all
+		columns/reagents.
+----------------------------------------------------------------------
+My approach:
+	- Get the unique values across all the reagents
+	- Check if any unique element appears across all columns/reagents
+	- write out a file containing information on all species that
+		appeared across all columns for easy reading.
