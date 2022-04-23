@@ -10,6 +10,8 @@ Each folder contains a README that contains information regarding code features 
 For a quick reference, I will list out the features implemented/used for each assignment below:
 --------------------------------------------------------------------------------------------------------------
   P1:
+      - for loops
+      - conditionals
       - use of list and dictionary data structures
       - list filtering, lambda functions
       - opening/reading files
